@@ -1,0 +1,8 @@
+$students = array(
+    "1234567" => array("FName" => "Brendan", "LName" => "Wood", "GPA" => 3.4),
+    "2345678" => array("FName" => "Nathalie", "LName" => "Smith", "GPA" => 3.34),
+    "3456789" => array("FName" => "John", "LName" => "Doe", "GPA" => 2.7),
+    "4567890" => array("FName" => "Sammy", "LName" => "Singh", "GPA" => 3.7),
+    "5678901" => array("FName" => "Sarah", "LName" => "Dubois", "GPA" => 3.5),
+    "6789012" => array("FName" => "Emma", "LName" => "Smith", "GPA" => 4.0),
+);
